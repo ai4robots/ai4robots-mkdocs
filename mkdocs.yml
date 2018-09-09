@@ -1,0 +1,40 @@
+site_name: AI4Robots
+site_url: http://www.ai4robots.org
+site_description: AI4Robots Documentation
+site_author: AI4Robots Team
+
+nav:
+- Home: index.md
+- Python Packages:
+  - OpenCV: opencv.md
+- Software Notes:
+  - ROS: ros.md
+  - TurtleBot3: turtlebot3.md
+  - MkDocs: mkdocs.md
+- Hardware Notes:
+  - Nvidia Jetson TX2: jetsontx2.md
+
+
+theme:
+  name: 'material'
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+
+google_analytics: ['UA-99997852-1', 'auto']
+
+repo_url: https://github.com/ai4robots/ai4robots.github.io
+
