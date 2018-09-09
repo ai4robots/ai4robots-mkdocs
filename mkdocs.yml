@@ -2,6 +2,7 @@ site_name: AI4Robots
 site_url: http://www.ai4robots.org
 site_description: AI4Robots Documentation
 site_author: AI4Robots Team
+repo_url: https://github.com/ai4robots/ai4robots-mkdocs
 
 nav:
 - Home: index.md
@@ -13,7 +14,6 @@ nav:
   - MkDocs: mkdocs.md
 - Hardware Notes:
   - Nvidia Jetson TX2: jetsontx2.md
-
 
 theme:
   name: 'material'
@@ -35,6 +35,3 @@ theme:
     icon: "\uE80C"
 
 google_analytics: ['UA-99997852-1', 'auto']
-
-repo_url: https://github.com/ai4robots/ai4robots.github.io
-
