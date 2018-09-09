@@ -1,7 +1,7 @@
 ## Setup
-1. Clone [ai4robots-mkdocs](https://github.com/ai4robots/ai4robots-mkdocs) and [ai4robots.github.io](https://github.com/ai4robots/ai4robots.github.io) repos
-2. Install [MkDocs](https://www.mkdocs.org)
-3. Install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+1. Clone the [ai4robots-mkdocs](https://github.com/ai4robots/ai4robots-mkdocs) and [ai4robots.github.io](https://github.com/ai4robots/ai4robots.github.io) repos.
+2. Install [MkDocs](https://www.mkdocs.org).
+3. Install the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
 ## Makefile Targets
 | Command               | Description                                  |
