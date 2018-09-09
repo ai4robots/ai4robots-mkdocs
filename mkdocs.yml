@@ -36,5 +36,6 @@ theme:
   #logo:
   #  icon: "\uE80C"
   logo: 'images/owls.jpg'
+  favicon: 'assets/images/favicon.ico'
 
 google_analytics: ['UA-99997852-1', 'auto']
