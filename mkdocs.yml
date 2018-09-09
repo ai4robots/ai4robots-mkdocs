@@ -2,7 +2,9 @@ site_name: AI4Robots
 site_url: http://www.ai4robots.org
 site_description: AI4Robots Documentation
 site_author: AI4Robots Team
+
 repo_url: https://github.com/ai4robots/ai4robots-mkdocs
+repo_name: 'GitHub'
 
 nav:
 - Home: index.md
