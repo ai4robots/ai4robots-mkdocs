@@ -1,4 +1,9 @@
-## Website content for [www.ai4robots.org](http://www.ai4robots.org)
+## Setup
+1. Clone [ai4robots-mkdocs](https://github.com/ai4robots/ai4robots-mkdocs) and [ai4robots.github.io](https://github.com/ai4robots/ai4robots.github.io) repos
+2. Install [mkdocs](https://www.mkdocs.org)
+3. Install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+
 
 ## Makefile targets
 
@@ -7,4 +12,4 @@
 | `make website`        | Build the website in site/                   |
 | `make clean`          | Delete site/                                 |
 | `make server`         | Start the live-reloading docs server         |
-| `make deploy`         | Deploy site to github.io                     |
+| `make deploy`         | Deploy site to ai4robots.github.io           |
