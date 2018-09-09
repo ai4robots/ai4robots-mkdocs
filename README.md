@@ -12,4 +12,4 @@
 | `make website`        | Build the website in site/                   |
 | `make clean`          | Delete site/                                 |
 | `make server`         | Start the live-reloading docs server         |
-| `make deploy`         | Deploy site to ai4robots.github.io           |
+| `make deploy`         | Deploy content to ai4robots.github.io        |
