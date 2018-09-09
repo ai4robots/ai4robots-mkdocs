@@ -33,7 +33,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo:
-    icon: "\uE80C"
+  #logo:
+  #  icon: "\uE80C"
+  logo: 'images/owls.jpg'
 
 google_analytics: ['UA-99997852-1', 'auto']
